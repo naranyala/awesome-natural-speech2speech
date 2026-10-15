@@ -106,6 +106,7 @@ TTS is the voice, emotion, and identity of the agent. Achieving a truly natural 
 | [OpenVoice](https://github.com/myshell-ai/OpenVoice) | — | — | Multi | MIT |
 | [Parler-TTS](https://github.com/huggingface/parler-tts) | — | — | EN | Apache 2.0 |
 | [OmniVoice](https://github.com/k2-fsa/OmniVoice) | Diffusion language model | — | 600+ | Apache 2.0 |
+| [loudkit](https://github.com/loudreader/loudkit) | Autoregressive + flow matching | 311M | 10 | Apache 2.0 |
 
 ### API Wrappers & Related Projects
 
